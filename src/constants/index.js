@@ -144,7 +144,7 @@ export const educationList = [
     title: "Vijayamatha Public School",
     degree: "High School",
     duration: "May 2018 - June 2019",
-    content1: "Biology Science"
+    content1: "Science"
   },
 ];
 
