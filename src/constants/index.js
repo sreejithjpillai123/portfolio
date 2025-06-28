@@ -168,11 +168,6 @@ export const skills = [
         name: "Java",
       },
       {
-        id: "pl-7",
-        icon: SiC,
-        name: "C",
-      },
-      {
         id: "pl-8",
         icon: AiFillHtml5,
         name: "HTML",
@@ -217,11 +212,6 @@ export const skills = [
   {
     title: "Tools",
     items: [
-      {
-        id: "t-1",
-        icon: VscAzure,
-        name: "Azure",
-      },
       {
         id: "t-2",
         icon: SiMysql,
