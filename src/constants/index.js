@@ -94,7 +94,7 @@ import { VscAzure } from "react-icons/vsc";
 import { BiLogoVisualStudio } from "react-icons/bi";
 
 export const resumeLink =
-  "https://drive.google.com/file/d/1PJCIjJbIe2TkURi9piAXv3npS5lZYZzW/view?usp=sharing";
+  "https://drive.google.com/file/d/1SYvpGBQkecupKuC-yIDWll567MOTv26x/view?usp=sharing";
 export const repoLink = "https://github.com/sreejithjpillai123";
 
 export const callToAction = "https://www.linkedin.com/in/sreejith-j-pillai-bb764827b/";
@@ -214,7 +214,7 @@ export const skills = [
       },
       {
         id: "f-5",
-        icon: SiTailwindcss,
+        icon: SiNextdotjs,
         name: "Nextjs",
       },
     ],
@@ -275,7 +275,7 @@ export const experiences = [
 
   {
     organisation: "Qspiders",
-    logo: averlon,
+    logo: "https://imgs.search.brave.com/c-oSBgh774eUNIHa5mDvvxLseQ-aZ-xhLjgw1TDdvzA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nbGFzc2Rvb3Iu/Y29tL3NxbC82NDU1/NjMvcXNwaWRlcnMt/c3F1YXJlTG9nby0x/NjYwMDM0NDgzOTAx/LnBuZw",
     link: "https://averlon.ai/",
     positions: [
       {
@@ -293,7 +293,7 @@ export const experiences = [
 
   {
     organisation: "Woxro",
-    logo: averlon,
+    logo: "https://infopark.in/upload_images/company_logos/576woxro-logo.jpg",
     link: "https://averlon.ai/",
     positions: [
       {
@@ -574,7 +574,7 @@ export const extraCurricular = [
         link: "",
       },
     ],
-    logo: genesis,
+    logo: "https://imgs.search.brave.com/c-oSBgh774eUNIHa5mDvvxLseQ-aZ-xhLjgw1TDdvzA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nbGFzc2Rvb3Iu/Y29tL3NxbC82NDU1/NjMvcXNwaWRlcnMt/c3F1YXJlTG9nby0x/NjYwMDM0NDgzOTAx/LnBuZw",
   },
   {
     id: 4,
@@ -586,7 +586,7 @@ export const extraCurricular = [
         link: "",
       },
     ],
-    logo: genesis,
+    logo: "https://infopark.in/upload_images/company_logos/576woxro-logo.jpg",
   },
 ];
 
