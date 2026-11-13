@@ -309,6 +309,24 @@ export const experiences = [
     ],
   },
 
+    {
+    organisation: "Applied Payments Technology",
+    logo: "https://imgs.search.brave.com/YxRuA0Fjri5qni13ShqZGAaHRxE21sgBCDC5aYP1iSM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnRy/YWN4bi5jb20vbG9n/by9jb21wYW55L2Fw/cGxpZWRwYXltZW50/c3RlY2hfY29tXzJh/NGU0ODk1LTBhNGIt/NGU1OC05NTM2LWU0/ZWRhODc5M2Q3OT9m/b3JtYXQ9d2VicCZo/ZWlnaHQ9MTIwJndp/ZHRoPTEyMA",
+    link: "https://averlon.ai/",
+    positions: [
+      {
+        title: "Payment engineer",
+        duration: "April 2026 - Present",
+        content: [
+          {
+            text: "Working on payment gateway integration and payment processing.",
+            link: "",
+          },
+        ],
+      },
+    ],
+  },
+
 ];
 
 // Add information about all the projects to be listed out in your portfolio
